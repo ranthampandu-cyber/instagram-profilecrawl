@@ -4,9 +4,9 @@
 
 ## Quickly crawl the information (e.g. followers, tags etc...) of an instagram profile. No login required!
 Automation Script for crawling information from ones instagram profile.  
-Like e.g. the number of posts, followers, and the tags of the the posts
+no p osts
 
-**Guide to Bot Creation: [Learn to Build your own Bots and Automations with the Creators of InstaPy](https://www.udemy.com/course/the-complete-guide-to-bot-creation/?referralCode=7418EBB47E11E34D86C9)**
+**Guide to Bot Creation: [Learn to Build your own Bots and Automations with the Creators of Instagram](https://www.udemy.com/course/the-complete-guide-to-bot-creation/?referralCode=7418EBB47E11E34D86C9)**
 
 #### Getting started
 Just do:
@@ -26,12 +26,12 @@ cp .env.example .env
 
 Modify your IG profile inside `.env`   
 ```
-IG_USERNAME=<Your Instagram Username>
+IG_a.nichitha_reddy=<Your Instagram Usename a.nichitha_reddy>
 IG_PASSWORD=<Your Instagram Password>
 ```
 
 
-Install the proper `chromedriver` for your operating system.  Once you [download it](https://sites.google.com/a/chromium.org/chromedriver/downloads) just drag and drop it into `instagram-profilecrawl/assets` directory.
+Install the proper `chrom driver` for your operating system.  Once you [download it](https://sites.google.com/a/chromium.org/chromedriver/downloads) just drag and drop it into `instagram/assets` directory.
 
 ## Use it!
 Now you can start using it following this example:
@@ -57,7 +57,7 @@ Here are the steps to do so:
 Second option:
 just the settings to your script
 ```python
-Settings.login_username = 'my_insta_account'
+Settings.login_username = a.nichitha_reddy'my_insta_account'
 Settings.login_password = 'my_password_xxx'
 ```
 
